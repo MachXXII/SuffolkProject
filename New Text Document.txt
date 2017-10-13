@@ -1,0 +1,125 @@
+Right, then.
+
+Time has refined my views.
+
+*cracks knuckles*
+
+- Low-density belt of vulcanoid asteroids below the orbit of Moho
+
+- Eve:
+
+- Inclination reduced to make an easier early-game interplanetary target
+
+- Hotter and generally more angry atmosphere on Eve
+
+- Eve not violently purple (I regret this to this day)
+
+- Perpetual clouds and heavy haze, thunder ambiance, flashes of lightning and a surface dark enough to require lights to see properly (except when the lightning is going of course)
+
+- Kerbin:
+
+- Small amounts of eccentricity and inclination
+
+- Mun:
+
+- More realistic crater distribution in both size and location (very uniform, as it stands)
+
+- Tycho crater ripoff with properly shaped solid-black monolith
+
+- Duna:
+
+- More, flatter lowlands, more obvious ancient water-carved features
+
+- More irregular ice caps with super cool features
+
+- An additional asteroidal moon, far beyond Ike, if the systems allowed it it would have irregular rotation like Pluto's small moons are expected to (due to the odd dynamics of a binary planet system)
+
+- Ike:
+
+- Return of the magic boulder
+
+- Craters and a more moon-like heightmap
+
+- Asteroids discoverable in the actual asteroid belt, along with a significant quantify of larger asteroids
+
+- Jool:
+
+- Re-arrangement of major moons to be more widely spaced and similar to Saturn's layout of moons
+
+- 150% its original size, with enlarged moon orbits as well
+
+- Not so green (as with Eve, I still regret such an intense color), perhaps green bands instead, which when sampled yield algae...
+
+- Oblateness similar to that of Saturn's or Jupiter's (requires reworking of how atmospheres are handled)
+
+- Uncomfortable quantities of minor moons
+
+- Laythe:
+
+- Smaller, Duna sized
+
+- Mostly cloud covered
+
+- Scattered with active volcanoes
+
+- No ice caps (hot greenhouse atmosphere would destroy them easily)
+
+- Faint torus of gas along its orbit from escaping atmosphere (not enough to affect ships, but enough to catch the light, see Saturn's E ring [although you could of course get crazy with it and make it enough to change your orbit using aerodynamic surfaces... paging Larry Niven])
+
+- Vall:
+
+- Smaller, Mun sized
+
+- Scratchy surface like that of Europa/Eeloo
+
+- Tylo:
+
+- Smaller, slightly below Duna sized
+
+- Two-thirds-gee surface gravity (High for a body of that size, so perhaps a dense iron core surrounded by ices; a body from the inner solar system that was ejected and then captured by Jool)
+
+- Ice geysers + resulting atmosphere
+
+- Second faint gas torus
+
+- New Planet: Mez
+
+- Super-Kerbin with rapid rotation period, somewhat lens-shaped as a result (as later calculations of the properties of good old planet Mesklin suggested)
+
+- Thick atmosphere
+
+- Gravity at poles approaches 10-20g, gravity at equator only ~0.05g
+
+- Scale height of atmosphere varies accordingly, and grows very diffuse and stretched around the equator
+
+- ... which is annoyingly impossible with current systems unless the atmosphere can be rejiggered to work with non-spherical bodies (Dear ferram...)
+
+- Eeloo:
+
+- Surface like our new best friend Pluto with neat flowy stuff and everything
+
+- Small blob of a moon
+
+- Extra bodies with analogues of most real-world dwarf planets (especially Sedna)
+
+Technical advances required:
+
+- Functional atmospheres for non-spherical bodies
+
+- Proper altitude detection for non-spherical bodies
+
+- Non-spherical atmosphere rendering
+
+- Gas torus rendering
+
+- Dynamic loading/unloading of planet surface maps to keep memory usage sane (or just 64-bit and deal with the inefficiency)
+
+- Ambient sound system for planets
+
+- Irregular planetary rotation (optional, for Duna's minimoon)
+
+- Clouds
+
+I would make all of the system covered with a fog of scientific undiscovery which could only be removed partially with telescopes and more accurately with probes.
+
+Oh yes, I forgot this in my post. That's an absolute essential. Players should be blown away when finding out Laythe has oceans after finally probing beneath it's clouds, for instance.

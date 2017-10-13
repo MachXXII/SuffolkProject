@@ -1,0 +1,19 @@
+Hibernation mode for probes (no power used)
+Need to scan planets for a 'HiRes' image of planets surface
+if the probe loses power the will be an icon on the map view of where last contact was
+there will be a blurry some what accurate the show the probes trajectory
+
+need to seed scinece prbe to gain gravity,size,atmo,rotation,etc,etc
+ 
+(Static)solar panels on planets will gain dust and lose dust on the surface of the panels at random this will change the efficiently of the solar panels 
+
+
+----1/22/16 Revise------------------
+-Hibernation mode for probes, Minimal power used, no control
+-Solar panels on planets with an atmosphere, will randomly gain and lose "Dust" which will effect the efficency of the panels
+-If a probe loses power, its orbital trajectory will disappear with only a somwhat accurate path of the probe last recorded trajectory
+---Science-----
+-to get a full resolution map of the planet you will need to send probe to image the surface
+-to get full stats(Gravity,Size,Atmo height,Etc,etc) send probe to record the data
+-
+

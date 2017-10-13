@@ -1,0 +1,55 @@
+-----STS------Shuttle Transportation System------------------------
+
+---Orbiters--------------------------------------------------------
+-OV-101: Millennium,M5  
+--Test Article
+
+-OV-102: Enterprise,M1.5
+--Destoryed/Retired
+
+-OV-103: Voyager,M1
+--Destroyed
+
+-OV-104: TBA
+--TBA
+
+-OV-105: TBA
+--TBA
+
+-OV-106: TBA
+--TBA
+
+--------------------------------------------------------------------
+
+STS-1 Test flight
+Orbiter: Enterprise
+Task:Preform Normal mission with a "rockomax Jumbo 64" payload
+Status:Success*
+*Enterprise OMS engines did not function at nominal range causing reentry trajectory miscalculation, orbiter had to crash land into ocean
+Crew:Ok
+-Cmdr:Valentina Kerman
+-Pilot:Valentina Kerman
+-PS1:Jebmy Kerman
+-PS2:Mirgee Kerman
+-MS1:Dachell Kerman
+
+STS-2 STS-Lab
+Orbiter: Enterprise
+Task:Shuttle "Enterprise" Delivered to orbit, converted to station
+Status:Success
+Crew:None
+
+STS-3 STS-Lab Crew Module Delivery
+Orbiter: Voyager
+Task:Shuttle Payload Delivered to station
+Status:Success*
+*Shuttle burned up in atmosphere, Front landing gear only surviving Piece of orbiter
+Crew:Ok
+-Cmdr:Valentina Kerman
+-Pilot:Valentina Kerman
+-PS1:Jebmy Kerman
+-PS2:Mirgee Kerman
+-MS1:Dachell Kerman
+-Return
+-Crew:Dead
+--Pilot:Dachell Kerman

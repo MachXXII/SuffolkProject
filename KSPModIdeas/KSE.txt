@@ -1,0 +1,84 @@
+﻿MachXXII's Kerbol Expansion (WIP) 12/29/14
+
+Kerbin
+
+Harvest
+Desc:A reddish-brown miniplanet, it shares Kerbin's orbit, occupying its L4 Lagrange Point.
+
+Physical parameters:
+- Radius: 80 kilometers
+- Rotation period: 5 hours
+- Atmospheric density: n/a
+- Surface gravity: 0.02 g
+
+Orbital parameters:
+- Semimajor Axis: 13,680,255 kilometers
+- Inclination: n/a
+- Eccentricity: n/a
+ 
+Duna
+?-New Small Moon
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Dres
+-$Maybe a small moon
+Asteroid Belt
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Jool
+?-2 or 3 new moons^V
+
+Eeloo
+-Moved to a new orbit past all new GP's
+
+Saturn Analog(Rings)
+-8 to 10 moons
+ -Titan Type moons
+-Additional
+ -2 to 3 small moons
+-Custom asteroids support
+
+Azul(Luza)Neptune/Uranus Mix Analog(Small rings)
+-7 to 10 moons
+ -Duna type moon
+-Custom Asteroids Support
+
+New Eeloo Location(Pluto Analog) 
+-EMm1, 110000km(Charion? Analog)
+-Emm1,small gilly sized moon
+-?Emm2, small Bop^ sized moon
+
+Makemake/Eris Analog
+-1100km less than eeloo
+ - very elliptical/Eccentric with a high inclination 
+ - little ways past eeloos new location
+- Very small moon close to surface
+
+Comets (2*)
+-Siliskus(Silisko)
+-C7
+*?Maybe more later on
+
+--------------------------------------------
+Key:
+^ Larger
+V Smaller
+* More Information
+? Possible/Maybe
+$ more than likley not going to happen but,
+there's a possibility
+--------------------------------------------
+Inspiration:
+Novasilsiko's original Solar system concepts 
+-http://forum.kerbalspaceprogram.com/threads/1849-Invention-A-Kerbal-s-Guide-to-our-solar-system
+-http://forum.kerbalspaceprogram.com/threads/29807-Planet-Ideas-And-Names-For-The-Future-Of-Kerbal-Space-Program?p=447959&viewfull=1#post447959
+-https://dl.dropboxusercontent.com/u/575558/KSP/solarsystem.jpg
+Porkjets planets
+-http://imgur.com/a/1G7Vj#0
+Comets from a post on the kerbal forums
+-http://imgur.com/a/3icZ6#4
+-------------------------------------------
+Last edit: 1/16/15 9:15 PM EST
+
+Created: 4/2/14 8:30 PM EST ©MachXXII(Mach_XXII)
+All rights reserved 2014
